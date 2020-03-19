@@ -23,13 +23,6 @@
 * [jQuery](https://jquery.com/)
 * [MongoDB](https://www.mongodb.com/)
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -37,10 +30,6 @@ This is an example of how to list things you need to use the software and how to
 ```sh
 npm install npm@latest -g
 ```
-
-
-
-![demo](/public/images/workout-tracker.png)
 
 ## Acknowledgements
 
