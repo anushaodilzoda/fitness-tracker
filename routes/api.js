@@ -26,4 +26,4 @@ router.get("/api/workouts/range", (req, res) =>{
   .then(results=> res.json(results))
   .catch(err=> res.json(err))
 })
-module.exports = router;
+module.exports = router
