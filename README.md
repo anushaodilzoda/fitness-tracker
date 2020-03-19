@@ -9,14 +9,6 @@
     The user can create, view, and track daily workouts. They can log multiple exercises for a workout on a given day.
 
 
-
-
-
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]]()
-
-
 ### Built With
 
 * [Bootstrap](https://getbootstrap.com/)
