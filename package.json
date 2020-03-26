@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "http"
   },
   "author": "Anusha",
   "license": "ISC",
   "bugs": {
-    "url": "#"
+  
   },
   "homepage": ""
 }
